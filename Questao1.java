@@ -7,7 +7,7 @@ package heap;
 
 /**
  *
- * @author Matheus
+ * @author Matheus Coqueiro, Pedro Maioli
  */
 public class Questao1 {
 
